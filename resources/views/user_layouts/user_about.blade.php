@@ -81,7 +81,8 @@
                                 <a href="/user_layouts/user_kategori" class="btn-material">Electronik dapur</a>
                             </li>
                         </ul>
-                    </div><!-- / Asside nav -->
+                    </div>
+                    <!-- / Asside nav -->
                 </div><!-- ./ Asside -->
             </div>
         </div>

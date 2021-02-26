@@ -43,10 +43,6 @@ Route::get('/user_layouts/user_cardpage_3', function () {
     return view('/user_layouts/user_cardpage_3');
 });
 
-Route::get('/login/loginadmin', function () {
-    return view('/login/loginadmin');
-});
-
 Route::get('/login/loginuser', function () {
     return view('/login/loginuser');
 });
@@ -60,5 +56,14 @@ Route::get('/login/forgotpass', function () {
 });
 
 Route::get('/login/login_master', function () {
+    return view('/login/login_master');
+});
+
+
+Route::get('/admin', function () {
+    return view('/login/loginadmin');
+});
+
+Route::get('/admin_layouts/admin_master', function () {
     return view('/login/login_master');
 });

@@ -408,86 +408,27 @@
 
                         <ul class="nav-vrt bg-white">
                             <li class="active">
-                                <a href="#" class="btn-material">Man line
-                                    <i class="nav-icon-open icofont icofont-plus"></i>
-                                    <i class="nav-icon-close icofont icofont-minus"></i>
-                                </a>
-
-                                <div class="sub-nav bg-grey-light">
-                                    <ul class="sub">
-                                        <li>
-                                            <a href="#" class="btn-material">Shirts</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Pants</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Footwear</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Belts</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Bags</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Accessories</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Perfume</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Jewerly</a>
-                                        </li>
-                                    </ul>
-                                </div>
+                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Dapur</a>
                             </li>
 
                             <li>
-                                <a href="#" class="btn-material">Woman
-                                    <i class="nav-icon-open icofont icofont-plus"></i>
-                                    <i class="nav-icon-close icofont icofont-minus"></i>
-                                </a>
-
-                                <div class="sub-nav bg-grey-light">
-                                    <ul class="sub">
-                                        <li>
-                                            <a href="#" class="btn-material">Shirts</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Pants</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Footwear</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Belts</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Bags</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Accessories</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Perfume</a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-material">Jewerly</a>
-                                        </li>
-                                    </ul>
-                                </div>
+                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kamar Mandi</a>
                             </li>
 
                             <li>
-                                <a href="#" class="btn-material">Jewerly</a>
+                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kebun</a>
                             </li>
 
                             <li>
-                                <a href="#" class="btn-material">Electronics</a>
+                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Tukang</a>
+                            </li>
+
+                            <li>
+                                <a href="/user_layouts/user_kategori" class="btn-material">Electronik dapur</a>
                             </li>
                         </ul>
-                    </div><!-- / Asside nav -->
+                    </div>
+                    <!-- / Asside nav -->
                 </div><!-- ./ Asside -->
             </div>
         </div>
