@@ -13,11 +13,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+/*
+|--------------------------------------------------------------------------
+| USER
+|--------------------------------------------------------------------------
+*/
 Route::get('/', function () {
     return view('welcome');
 });
-
-// Route::get('/user_layouts/user_about');
 
 Route::get('about', function () {
     return view('/user_layouts/user_about');
@@ -47,6 +52,12 @@ Route::get('user_profile', function () {
     return view('/user_layouts/user_profile');
 });
 
+/*
+|--------------------------------------------------------------------------
+| LOGIN
+|--------------------------------------------------------------------------
+*/
+
 Route::get('loginuser', function () {
     return view('/login/loginuser');
 });
@@ -64,10 +75,15 @@ Route::get('login_master', function () {
 });
 
 
+/*
+|--------------------------------------------------------------------------
+| ADMIN
+|--------------------------------------------------------------------------
+*/
 Route::get('/admin', function () {
     return view('/login/loginadmin');
 });
 
-Route::get('admin_master', function () {
-    return view('/login/login_master');
+Route::get('admin/dashboard', function () {
+    return view('/admin_layouts/admin_dashboard');
 });
