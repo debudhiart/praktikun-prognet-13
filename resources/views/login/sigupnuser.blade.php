@@ -36,10 +36,10 @@
                         <hr>
                     </form>
                     <div class="text-center">
-                        <a class="small" href="/login/forgotpass">Forgot Password?</a>
+                        <a class="small" href="forgotpass">Forgot Password?</a>
                     </div>
                     <div class="text-center">
-                        <a class="small" href="/login/loginuser">Already have an account? Login!</a>
+                        <a class="small" href="loginuser">Already have an account? Login!</a>
                     </div>
                 </div>
             </div>

@@ -19,43 +19,47 @@ Route::get('/', function () {
 
 // Route::get('/user_layouts/user_about');
 
-Route::get('/user_layouts/user_about', function () {
+Route::get('about', function () {
     return view('/user_layouts/user_about');
 });
 
-Route::get('/user_layouts/user_kategori', function () {
+Route::get('kategori', function () {
     return view('/user_layouts/user_kategori');
 });
 
-Route::get('/user_layouts/user_item', function () {
+Route::get('user_item', function () {
     return view('/user_layouts/user_item');
 });
 
-Route::get('/user_layouts/user_cardpage_1', function () {
+Route::get('cardpage_1', function () {
     return view('/user_layouts/user_cardpage_1');
 });
 
-Route::get('/user_layouts/user_cardpage_2', function () {
+Route::get('cardpage_2', function () {
     return view('/user_layouts/user_cardpage_2');
 });
 
-Route::get('/user_layouts/user_cardpage_3', function () {
+Route::get('cardpage_3', function () {
     return view('/user_layouts/user_cardpage_3');
 });
 
-Route::get('/login/loginuser', function () {
+Route::get('user_profile', function () {
+    return view('/user_layouts/user_profile');
+});
+
+Route::get('loginuser', function () {
     return view('/login/loginuser');
 });
 
-Route::get('/login/sigupnuser', function () {
+Route::get('sigupnuser', function () {
     return view('/login/sigupnuser');
 });
 
-Route::get('/login/forgotpass', function () {
+Route::get('forgotpass', function () {
     return view('/login/forgotpass');
 });
 
-Route::get('/login/login_master', function () {
+Route::get('login_master', function () {
     return view('/login/login_master');
 });
 
@@ -64,6 +68,6 @@ Route::get('/admin', function () {
     return view('/login/loginadmin');
 });
 
-Route::get('/admin_layouts/admin_master', function () {
+Route::get('admin_master', function () {
     return view('/login/login_master');
 });

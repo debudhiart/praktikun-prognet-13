@@ -26,10 +26,10 @@
                             </form>
                             <hr>
                             <div class="text-center">
-                                <a class="small" href="/login/sigupnuser">Create an Account!</a>
+                                <a class="small" href="sigupnuser">Create an Account!</a>
                             </div>
                             <div class="text-center">
-                                <a class="small" href="/login/loginuser">Already have an account? Login!</a>
+                                <a class="small" href="loginuser">Already have an account? Login!</a>
                             </div>
                         </div>
                     </div>

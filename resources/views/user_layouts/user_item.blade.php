@@ -178,8 +178,8 @@
                                         
                                         <!-- Btns -->
                                         <div class="btns-wrap btn-material bg-white">
-                                            <a href="/user_layouts/user_cardpage_1">Buy now</a>
-                                            <a class="text-blue" href="/user_layouts/user_cardpage_1">Put in cart</a>
+                                            <a href="cardpage_1">Buy now</a>
+                                            <a class="text-blue" href="cardpage_1">Put in cart</a>
                                         </div>
                                     </div>
                                     
@@ -408,23 +408,23 @@
 
                         <ul class="nav-vrt bg-white">
                             <li class="active">
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Dapur</a>
+                                <a href="kategori" class="btn-material">Peralatan Dapur</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kamar Mandi</a>
+                                <a href="kategori" class="btn-material">Peralatan Kamar Mandi</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kebun</a>
+                                <a href="kategori" class="btn-material">Peralatan Kebun</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Tukang</a>
+                                <a href="kategori" class="btn-material">Peralatan Tukang</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Electronik dapur</a>
+                                <a href="kategori" class="btn-material">Electronik dapur</a>
                             </li>
                         </ul>
                     </div>

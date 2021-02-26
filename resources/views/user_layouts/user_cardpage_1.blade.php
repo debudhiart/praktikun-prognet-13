@@ -328,11 +328,11 @@ CONTENT
                 
                 <!-- Footer -->
                 <div class="list-footer bg-blue">
-                    <a href="/user_layouts/user_cardpage_2" class="btn btn-default btn-material">
+                    <a href="cardpage_2" class="btn btn-default btn-material">
                         <i class="icofont icofont-cart-alt"></i>
                         <span class="body">Make a purchase</span>
                     </a>
-                    <a href="/user_layouts/user_cardpage_2" class="btn btn-text-white">
+                    <a href="cardpage_1" class="btn btn-text-white">
                         <span class="body">remove selected</span>
                     </a>
                 </div><!-- / Footer -->

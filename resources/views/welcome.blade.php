@@ -26,14 +26,14 @@ SLIDESHOW
                                 <span class="btn-panel">
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
                                             <span class="sdw"></span>
                                         </span>
                                         
                                         <span class="hor-divider"></span>
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
                                             <span class="sdw"></span>
                                         </span> 
                                 </span>
@@ -89,14 +89,14 @@ SLIDESHOW
                                 <span class="btn-panel">
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
                                             <span class="sdw"></span>
                                         </span>
                                         
                                         <span class="hor-divider"></span>
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
                                             <span class="sdw"></span>
                                         </span> 
                                 </span>
@@ -154,14 +154,14 @@ SLIDESHOW
                                 <span class="btn-panel">
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-default"><span class="body">More info</span></a>
                                             <span class="sdw"></span>
                                         </span>
                                         
                                         <span class="hor-divider"></span>
                                         
                                         <span class="sdw-wrap">
-                                            <a href="/user_layouts/user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
+                                            <a href="user_item" class="sdw-hover btn btn-lg btn-material btn-primary"><i class="icon icofont icofont-basket"></i><span class="body">Buy now</span></a>
                                             <span class="sdw"></span>
                                         </span> 
                                 </span>
@@ -274,23 +274,23 @@ BLOCK POPULAR ON SHOP
 
                         <ul class="nav-vrt bg-white">
                             <li class="active">
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Dapur</a>
+                                <a href="kategori" class="btn-material">Peralatan Dapur</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kamar Mandi</a>
+                                <a href="kategori" class="btn-material">Peralatan Kamar Mandi</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kebun</a>
+                                <a href="kategori" class="btn-material">Peralatan Kebun</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Tukang</a>
+                                <a href="kategori" class="btn-material">Peralatan Tukang</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Electronik dapur</a>
+                                <a href="kategori" class="btn-material">Electronik dapur</a>
                             </li>
                         </ul>
 
@@ -565,7 +565,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -717,7 +717,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -870,7 +870,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -1022,7 +1022,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -1174,7 +1174,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -1325,7 +1325,7 @@ BLOCK POPULAR ON SHOP
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">

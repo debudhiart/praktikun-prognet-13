@@ -23,23 +23,23 @@
 
                         <ul class="nav-vrt bg-white">
                             <li class="active">
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Dapur</a>
+                                <a href="kategori" class="btn-material">Peralatan Dapur</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kamar Mandi</a>
+                                <a href="kategori" class="btn-material">Peralatan Kamar Mandi</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Kebun</a>
+                                <a href="kategori" class="btn-material">Peralatan Kebun</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Peralatan Tukang</a>
+                                <a href="kategori" class="btn-material">Peralatan Tukang</a>
                             </li>
 
                             <li>
-                                <a href="/user_layouts/user_kategori" class="btn-material">Electronik dapur</a>
+                                <a href="kategori" class="btn-material">Electronik dapur</a>
                             </li>
                         </ul>
 
@@ -314,7 +314,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -466,7 +466,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -619,7 +619,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -771,7 +771,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -923,7 +923,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">
@@ -1074,7 +1074,7 @@
                                 <div class="info">
 
                                     <!-- Buy btn -->
-                                    <a href="/user_layouts/user_item" class="btn-material btn-price">
+                                    <a href="user_item" class="btn-material btn-price">
 
                                         <!-- Price -->
                                         <span class="price">

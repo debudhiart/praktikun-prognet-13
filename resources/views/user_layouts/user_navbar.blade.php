@@ -38,12 +38,12 @@
                             
                             <ul class="list-btn-group">
                                 <li>
-                                    <a href="/login/sigupnuser">
+                                    <a href="sigupnuser">
                                         Sing up
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="/login/loginuser">
+                                    <a href="loginuser">
                                         <b>Sing in</b>
                                     </a>
                                 </li>
@@ -67,7 +67,7 @@
                                         <i class="icofont icofont-user-alt-4 text-blue"></i>
                                     </span>
 
-                                    <!--img src="{{ asset('pengguna/html/images/profile/profile-img.jpg') }}" alt=""-->
+                                    {{-- <img src="{{ asset('pengguna/html/images/profile/profile-img.jpg') }}" alt=""> --}}
                                 </span>
                                 
                                 <!-- Info -->
@@ -83,7 +83,7 @@
                         <li class="cart">
 
                             <li class="more-btn sdw ">
-                                <a href="/user_layouts/user_cardpage_1" class="btn btn-primary">
+                                <a href="user_cardpage_1" class="btn btn-primary">
                                     Shopping cart 
                                     <i class="icofont icofont-cart-alt"></i>
                                 </a>
@@ -102,15 +102,15 @@
                                 categories <i class="icofont icofont-curved-down"></i>
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a href="/user_layouts/user_kategori">Peralatan Dapur</a></li>
-                                <li><a href="/user_layouts/user_kategori">Peralatan Kamar Mandi</a></li>
-                                <li><a href="/user_layouts/user_kategori">Peralatan Kebun</a></li>
-                                <li><a href="/user_layouts/user_kategori">Peralatan Tukang</a></li>
-                                <li><a href="/user_layouts/user_kategori">Electronik dapur</a></li>
+                                <li><a href="kategori">Peralatan Dapur</a></li>
+                                <li><a href="kategori">Peralatan Kamar Mandi</a></li>
+                                <li><a href="kategori">Peralatan Kebun</a></li>
+                                <li><a href="kategori">Peralatan Tukang</a></li>
+                                <li><a href="kategori">Electronik dapur</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="/user_layouts/user_about">
+                            <a href="about">
                                 about us
                             </a>
                         </li>
