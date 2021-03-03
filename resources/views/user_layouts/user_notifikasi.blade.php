@@ -1,5 +1,6 @@
 @extends('user_layouts.user_master')
 @section('content')
+
 <div class="container">
     <!-- 
     CONTENT
@@ -13,13 +14,13 @@
                     <div class="row auth-form">
                         <!-- Header & nav -->
                         <div class="col-md-12">
-
+    
                             <!-- Header -->
                             <h1 class="header text-uppercase">
-                                Profil
-                                <span>
-                                    Biodata
-                                </span>
+                                Notifikasi
+                                {{-- <span>
+                                    Foto/Screenshot bukti transfer
+                                </span> --}}
                             </h1>
 
                         </div>

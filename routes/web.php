@@ -48,9 +48,22 @@ Route::get('cardpage_3', function () {
     return view('/user_layouts/user_cardpage_3');
 });
 
-Route::get('user_profile', function () {
+Route::get('cardpage_4', function () {
+    return view('/user_layouts/user_cardpage_4');
+});
+
+Route::get('profile', function () {
     return view('/user_layouts/user_profile');
 });
+
+Route::get('pesan', function () {
+    return view('/user_layouts/user_pesan');
+});
+
+Route::get('notifikasi', function () {
+    return view('/user_layouts/user_notifikasi');
+});
+
 
 /*
 |--------------------------------------------------------------------------

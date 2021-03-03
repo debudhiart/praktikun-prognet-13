@@ -8,14 +8,14 @@ STEPS
     <div class="col-xs-12">
         
         <ul class="steps row">
-            <li class="active col-xs-12 col-sm-4 col-md-4 col-lg-3">
+            <li class="active active col-xs-12 col-sm-4 col-md-4 col-lg-3">
                 <div class="icon number bg-blue">
                     1
                 </div>
                 <span>
                     Confirm 
                 </span>
-                products list
+                Shopping cart
                 
                 <span class="dir-icon hidden-xs">
                     <i class="icofont icofont-stylish-right text-yellow"></i>
@@ -30,6 +30,34 @@ STEPS
                     Checkout
                 </span>
                 your address
+
+                <span class="dir-icon">
+                    <i class="icofont icofont-stylish-right"></i>
+                </span>
+            </li>
+            
+            <li class="hidden-xs col-sm-4 col-md-4 col-lg-3">
+                <div class="icon number bg-grey">
+                    3
+                </div>
+                <span>
+                    Select
+                </span>
+                payment method
+                
+                <span class="dir-icon hidden-sm hidden-md">
+                    <i class="icofont icofont-stylish-right"></i>
+                </span>
+            </li>
+
+            <li class="hidden-xs col-lg-3 hidden-sm hidden-md">
+                <div class="icon number bg-grey">
+                    4
+                </div>
+                <span>
+                    Confirm
+                </span>
+                your order
             </li>
         </ul>
     </div>

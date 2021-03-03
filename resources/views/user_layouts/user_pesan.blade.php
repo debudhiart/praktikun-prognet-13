@@ -16,10 +16,10 @@
 
                             <!-- Header -->
                             <h1 class="header text-uppercase">
-                                Profil
-                                <span>
-                                    Biodata
-                                </span>
+                                Pesan
+                                {{-- <span>
+                                    Foto/Screenshot bukti transfer
+                                </span> --}}
                             </h1>
 
                         </div>

@@ -5,12 +5,6 @@
     <div class="row">
         <div class="container">
             
-            <div class="row hidden-xs">
-                <div class="col-xs-12 img-on-bg">
-                    <img src="{{ asset('pengguna/html/images/blocks/parallax-bg-popular-on-shop.png') }}" alt="">
-                </div>
-            </div>
-            
             <div class="row">
                 
                 <!-- Asside -->
@@ -52,93 +46,26 @@
                             <!-- Header -->
                             <div class="header bg-blue">
                                 <span class="head">Category</span>
-
-                                <span class="btn-swither" >
-                                    <span></span>
-                                    <span></span>
-                                    <span></span>
-                                </span>
                             </div>
-
                             <ul class="nav-vrt bg-white">
                                 <li class="active">
-                                    <a href="#" class="btn-material">Man line
-                                        <i class="nav-icon-open icofont icofont-plus"></i>
-                                        <i class="nav-icon-close icofont icofont-minus"></i>
-                                    </a>
-
-                                    <div class="sub-nav bg-grey-light">
-                                        <ul class="sub">
-                                            <li>
-                                                <a href="#" class="btn-material">Shirts</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Pants</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Footwear</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Belts</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Bags</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Accessories</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Perfume</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Jewerly</a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                    <a href="kategori" class="btn-material">Peralatan Dapur</a>
                                 </li>
-
+    
                                 <li>
-                                    <a href="#" class="btn-material">Woman
-                                        <i class="nav-icon-open icofont icofont-plus"></i>
-                                        <i class="nav-icon-close icofont icofont-minus"></i>
-                                    </a>
-
-                                    <div class="sub-nav bg-grey-light">
-                                        <ul class="sub">
-                                            <li>
-                                                <a href="#" class="btn-material">Shirts</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Pants</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Footwear</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Belts</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Bags</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Accessories</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Perfume</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="btn-material">Jewerly</a>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                    <a href="kategori" class="btn-material">Peralatan Kamar Mandi</a>
                                 </li>
-
+    
                                 <li>
-                                    <a href="#" class="btn-material">Jewerly</a>
+                                    <a href="kategori" class="btn-material">Peralatan Kebun</a>
                                 </li>
-
+    
                                 <li>
-                                    <a href="#" class="btn-material">Electronics</a>
+                                    <a href="kategori" class="btn-material">Peralatan Tukang</a>
+                                </li>
+    
+                                <li>
+                                    <a href="kategori" class="btn-material">Electronik dapur</a>
                                 </li>
                             </ul>
                         </div>

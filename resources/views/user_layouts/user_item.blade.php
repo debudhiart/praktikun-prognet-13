@@ -204,7 +204,7 @@
                     <!-- END: MAIN INFO -->
                     
                     <!--
-                    DESCRIPTION & COMMENTS
+                    COMMENTS
                     =============================================== -->
                     <div class="row shop-item-info">
                         <div class="col-xs-12">
@@ -213,19 +213,14 @@
                             <ul class="nav nav-tabs" role="tablist">
                                 <li role="presentation">
                                     <a href="#comments"
-                                       data-toggle="tab">Comments</a>
+                                       data-toggle="tab">Comments
+                                    </a>
                                 </li>
                             </ul>
 
                             <!-- Tab panes -->
                             <div class="tab-content">
-                                {{-- <div role="tabpanel" class="tab-pane active description" id="description">
-                                    
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis hic magni neque sint sapiente ducimus voluptate. Velit vero, cumque quam omnis architecto eum, facere tempora saepe reiciendis ut sunt. Quas aliquam, ipsum voluptas, ut deleniti earum ullam nam incidunt sit vitae veniam rem dicta tenetur vero ab atque consequuntur, quo eos voluptatibus nulla. Quaerat eveniet vel delectus ut autem quasi temporibus illum expedita nemo aut, fugit reiciendis veritatis maiores asperiores ratione cumque, hic eum. Id soluta ipsam quae eveniet illo dolor, molestiae, quam adipisci obcaecati maxime atque nesciunt nisi, sequi aspernatur saepe dolores sunt minima voluptatem hic velit consequatur. Dolorum!
-                                    </p>
-                                </div> --}}
-                                <div role="tabpanel" class="tab-pane comments" id="comments">
+                                <div role="tabpanel" class="comments" id="comments">
                                     
                                     <!-- Header -->
                                     <h3 class="header">Comments</h3>
@@ -353,33 +348,12 @@
                                         <form class="form-horizontal">
 
                                             <div class="form-group">
-                                                <label for="inputName" class="col-sm-3 control-label">Enter your name</label>
-                                                <div class="col-sm-7">
-                                                    <input type="text" class="form-control" id="inputName">
-                                                </div>
-                                            </div>
-
-                                            <div class="form-group">
                                                 <label for="inputText" class="col-sm-3 control-label">Enter your message</label>
                                                 <div class="col-sm-7">
                                                     <textarea class="form-control" id="inputText" cols="30" rows="3"></textarea>
                                                 </div>
                                             </div>
 
-                                            <div class="form-group">
-                                                <div class="col-sm-offset-3 col-sm-7">
-                                                    <div class="checkbox">
-                                                        <input type="checkbox" id="inputCheckBox1">
-                                                        <label for="inputCheckBox1">
-                                                            <span class="checkbox-input">
-                                                                <span class="off">off</span>
-                                                                <span class="on">on</span>
-                                                            </span>
-                                                            get an answer to email
-                                                        </label>
-                                                    </div>
-                                                </div>
-                                            </div>
                                             <div class="form-group">
                                                 <div class="col-sm-offset-3 col-sm-7">
                                                     <button type="submit" class="btn btn-primary btn-material">
@@ -394,7 +368,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- END: DESCRIPTION & COMMENTS -->
+                    <!-- END: COMMENTS -->
                 </div>
 
                 <!-- Asside -->
