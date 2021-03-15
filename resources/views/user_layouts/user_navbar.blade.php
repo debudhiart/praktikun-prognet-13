@@ -97,7 +97,7 @@
                                         </div>
                                     </a>
                                 </li>
-                                <li><a href="notifikasi" class="text-center small">Read More Messages</a></li>
+                                <li><a href="notifikasi" class="text-center small">Read More Notification</a></li>
                             </ul>
                         </li>
 
@@ -216,3 +216,4 @@
             </div><!-- /.container-fluid -->
         </nav>
         <!-- END: NAVBAR -->
+

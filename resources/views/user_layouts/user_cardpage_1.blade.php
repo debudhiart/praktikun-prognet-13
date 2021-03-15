@@ -126,13 +126,13 @@ CONTENT
                             <img src="{{ asset('pengguna/html/images/shop/img-01.jpg') }}" alt="">
                             
                             <span class="comp-header st-8 text-uppercase">
-                                T-Shirt
-                                <span>
+                                Panci Steamboat
+                                {{-- <span>
                                     Men collections
                                 </span>
                                 <span>
                                     fake brand
-                                </span>
+                                </span> --}}
                             </span>
                         </div>
 
@@ -159,8 +159,8 @@ CONTENT
                         </div>
 
                         <div class="total">
-                            <i class="icofont icofont-cur-dollar"></i>
-                            <span>514.40</span>
+                            {{-- <i class="icofont icofont-cur-dollar"></i> --}}
+                            <span>Rp 257.200</span>
                         </div>
 
                         <div class="rmv text-center">
@@ -187,13 +187,13 @@ CONTENT
                             <img src="{{ asset('pengguna/html/images/shop/img-02.jpg') }}" alt="">
                             
                             <span class="comp-header st-8 text-uppercase">
-                                T-Shirt
-                                <span>
+                                Panci Shabu-Shabu
+                                {{-- <span>
                                     Men collections
                                 </span>
                                 <span>
                                     fake brand
-                                </span>
+                                </span> --}}
                             </span>
                         </div>
 
@@ -220,8 +220,8 @@ CONTENT
                         </div>
 
                         <div class="total">
-                            <i class="icofont icofont-cur-dollar"></i>
-                            <span>520.20</span>
+                            {{-- <i class="icofont icofont-cur-dollar"></i> --}}
+                            <span>Rp 257.200</span>
                         </div>
 
                         <div class="rmv text-center">
@@ -245,16 +245,16 @@ CONTENT
                         </div>
                         
                         <div class="product">
-                            <img src="{{ asset('pengguna/html/images/shop/img-03.jpg') }}" alt="">
+                            <img src="{{ asset('pengguna/html/images/shop/img-08.jpg') }}" alt="">
                             
                             <span class="comp-header st-8 text-uppercase">
-                                T-Shirt
-                                <span>
+                                Shower Elegant
+                                {{-- <span>
                                     Men collections
                                 </span>
                                 <span>
                                     fake brand
-                                </span>
+                                </span> --}}
                             </span>
                         </div>
 
@@ -281,8 +281,8 @@ CONTENT
                         </div>
 
                         <div class="total">
-                            <i class="icofont icofont-cur-dollar"></i>
-                            <span>748.00</span>
+                            {{-- <i class="icofont icofont-cur-dollar"></i> --}}
+                            <span>Rp 257.200</span>
                         </div>
 
                         <div class="rmv text-center">
@@ -306,16 +306,16 @@ CONTENT
                         </div>
                         
                         <div class="product">
-                            <img src="{{ asset('pengguna/html/images/shop/img-05.jpg') }}" alt="">
+                            <img src="{{ asset('pengguna/html/images/shop/img-09.jpg') }}" alt="">
                             
                             <span class="comp-header st-8 text-uppercase">
-                                T-Shirt
-                                <span>
+                                Gunting Krisbow
+                                {{-- <span>
                                     Men collections
                                 </span>
                                 <span>
                                     fake brand
-                                </span>
+                                </span> --}}
                             </span>
                         </div>
 
@@ -342,8 +342,8 @@ CONTENT
                         </div>
 
                         <div class="total">
-                            <i class="icofont icofont-cur-dollar"></i>
-                            <span>514.40</span>
+                            {{-- <i class="icofont icofont-cur-dollar"></i> --}}
+                            <span>Rp 257.200</span>
                         </div>
 
                         <div class="rmv text-center">

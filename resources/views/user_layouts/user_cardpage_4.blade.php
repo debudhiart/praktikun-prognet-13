@@ -86,7 +86,7 @@
                             <!-- 
                             Progres barang
                             =============================================== -->
-                            <div class="row block text-center">
+                            <div class="row text-center">
                                 <div class="col-xs-12">
                                     
                                     <ul class="steps row">
@@ -135,6 +135,14 @@
                                             </span>
                                         </li>
                                     </ul>
+                                    <!-- / Kembali ke halaman utama -->
+                                    <div class="form-group block">
+                                        <button type="button" class="sdw-hover btn btn-material btn-yellow btn-lg ripple-cont">
+                                            {{-- <i class="mdi mdi-file-restore btn-icon-prepend "></i>      --}}
+                                            <a href="/" style="color: black;">Kembali ke halaman utama</a>
+                                        </button>
+                                    </div>
+                                    <!-- /END: Kembali ke halaman utama -->
                                 </div>
                             </div>
                             <!-- END: Progres barang -->

@@ -64,6 +64,9 @@ Route::get('notifikasi', function () {
     return view('/user_layouts/user_notifikasi');
 });
 
+Route::get('edit_profile', function () {
+    return view('/user_layouts/edit_profile');
+});
 
 /*
 |--------------------------------------------------------------------------
@@ -100,3 +103,64 @@ Route::get('/admin', function () {
 Route::get('admin/dashboard', function () {
     return view('/admin_layouts/admin_dashboard');
 });
+
+Route::get('admin/transaksi', function () {
+    return view('/admin_layouts/admin_transaksi');
+});
+
+Route::get('admin/produk', function () {
+    return view('/admin_layouts/admin_produk');
+});
+
+Route::get('admin/tambah_produk', function () {
+    return view('/admin_layouts/admin_tambahproduk');
+});
+
+Route::get('admin/edit_produk', function () {
+    return view('/admin_layouts/admin_editproduk');
+});
+
+Route::get('admin/view_produk', function () {
+    return view('/admin_layouts/admin_viewproduk');
+});
+
+Route::get('admin/tambah_foto_produk', function () {
+    return view('/admin_layouts/admin_fotoproduk');
+});
+
+Route::get('admin/diskon_produk', function () {
+    return view('/admin_layouts/admin_diskon');
+});
+
+Route::get('admin/tambah_diskon', function () {
+    return view('/admin_layouts/admin_tambahdiskon');
+});
+
+Route::get('admin/edit_diskon', function () {
+    return view('/admin_layouts/admin_editdiskon');
+});
+
+Route::get('admin/kategori', function () {
+    return view('/admin_layouts/admin_kategori');
+});
+
+Route::get('admin/tambah_kategori', function () {
+    return view('/admin_layouts/admin_tambahkategori');
+});
+
+Route::get('admin/edit_kategori', function () {
+    return view('/admin_layouts/admin_editkategori');
+});
+
+Route::get('admin/kurir', function () {
+    return view('/admin_layouts/admin_kurir');
+});
+
+Route::get('admin/tambah_kurir', function () {
+    return view('/admin_layouts/admin_tambahkurir');
+});
+
+Route::get('admin/edit_kurir', function () {
+    return view('/admin_layouts/admin_editkurir');
+});
+

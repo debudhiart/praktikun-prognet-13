@@ -35,10 +35,6 @@
                                     <div class="item">
                                         <img src="{{ asset('pengguna/html/images/shop/item-page/img-05.jpg ') }}" alt="">
                                     </div>
-                                   
-                                    <div class="item">
-                                        <img src="{{ asset('pengguna/html/images/shop/item-page/img-06.jpg ') }}" alt="">
-                                    </div>
                                 </div>
 
                                 {{-- <div class="owl-carousel image-nav hidden-xs">
@@ -79,13 +75,13 @@
                                 <div class="col-md-7">
                                    
                                     <h1 class="comp-header st-12 text-uppercase text-blue">
-                                        T-Shirt 
-                                        <span class="text-dark">
+                                        Super Blender
+                                        {{-- <span class="text-dark">
                                             Men collections
                                         </span>
                                         <span class="text-dark">
                                             Fake brand
-                                        </span>
+                                        </span> --}}
                                     </h1>
                                 </div>
                                 
@@ -154,11 +150,6 @@
                                             </li>
                                         </ul>
                                     </div>
-                                    
-                                    <button class="favorite btn-material">
-                                        <i class="icofont icofont-star"></i>
-                                        Add to favorite
-                                    </button>
                                 </div>
                             </div>
                             

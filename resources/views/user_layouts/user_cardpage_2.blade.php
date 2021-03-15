@@ -268,12 +268,12 @@
                                                 <input type="hidden" class="id_cart0" value="60">
                                                 <input type="hidden" id="user_id" value="8">
                                                 <input type="hidden" class="stock0" value="76">
-                                                <img style="width:50px; height:50px;" src="{{ asset('pengguna/html/images/shop/img-03.jpg') }}" alt="" class="img-fluid z-depth-0">
+                                                <img style="width:50px; height:50px;" src="{{ asset('pengguna/html/images/shop/img-01.jpg') }}" alt="" class="img-fluid z-depth-0">
                                             </th>
                             
                                             <td>
                                                 <h5 class="mt-3">
-                                                    <strong>Samsung Galaxy S10</strong>
+                                                    <strong>Panci Steamboat</strong>
                                                 </h5>
                                             </td>
 

@@ -30,7 +30,7 @@
                                 <input type="password" class="form-control form-control-user" id="exampleRepeatPassword" placeholder="Repeat Password">
                             </div>
                         </div>
-                        <a href="/login/loginuser" class="btn btn-primary btn-user btn-block">
+                        <a href="loginuser" class="btn btn-primary btn-user btn-block">
                             Register Account
                         </a>
                         <hr>
